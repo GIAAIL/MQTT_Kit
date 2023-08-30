@@ -1,0 +1,23 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+}
+
+canvas {
+    display: block;
+}
+
+#dropzone {
+    padding: 24px;
+    border-style: dashed;
+    font-size: 36pt;
+    width: 50%;
+}
+
+.textBox {
+    height: 100px;
+    /* increase the height */
+    line-height: 35px;
+    /* vertically align the text */
+}
